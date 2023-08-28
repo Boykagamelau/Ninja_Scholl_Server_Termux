@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Ninja_Server_Termux 👋</h1>
+<h1 align="center">Welcome to Ninja_Scholl_Server_Termux 👋</h1>
 <img alt="Homepage" src="https://github.com/Boykagamelau/Ninja_Scholl_Server_Termux/raw/main/image/Homepage.png" />
 
 <p>
